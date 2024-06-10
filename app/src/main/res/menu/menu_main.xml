@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@mipmap/tab_hot"
+        android:orderInCategory="0"
+        android:title="最热" />
+
+    <item
+        android:id="@+id/menu_shop"
+        android:icon="@mipmap/tab_snack"
+        android:orderInCategory="1"
+        android:title="零食" />
+
+    <item
+        android:id="@+id/menu_find"
+        android:icon="@mipmap/tab_user"
+        android:orderInCategory="2"
+        android:title="我的" />
+
+
+</menu>
